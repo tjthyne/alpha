@@ -2,7 +2,7 @@ CREATE TABLE [dsv].[membership_dsv] (
     [source_code]        VARCHAR (20)   NOT NULL,
     [source_description] VARCHAR (2000) NOT NULL,
     [create_cycle_sk]   INT NOT NULL,
-    [create_dtm]        DATETIME NOT NULL,
+    [create_dtm]        DATETIME NOT NULL default current_timestamp,
     [member_id]         VARCHAR(20) NOT NULL,
     [first_name]         VARCHAR (200)  NULL,
     [last_name]          VARCHAR (200)  NULL,

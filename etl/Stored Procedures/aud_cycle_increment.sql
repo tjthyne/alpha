@@ -6,11 +6,13 @@ BEGIN
     set nocount on;
     insert into [aud].[cycle]
     (
-        [source_code]
+        [source_code],
+        [create_dtm]
     )
     values
     (
-        @source_code
+        @source_code,
+        
     )
     
 END
