@@ -1,0 +1,3 @@
+MemberId|FirstName|LastName|BirthDate|Sex|PhoneNumber|Address1|Address2|City|State|ZIPCode|PCPName|PCPNPI
+111|TestFirst1|TestLast1|1930-10-21|M|512-555-1111|1111 Test Blvd||AUSTIN|TX|78759|TestOne, James|1111111111
+222|TestFirst2|TestLast2|2001-01-08|M|512-555-2222|2222 Test Dr|Apt 2|LEANDER|TX|78641|TestTwo, Aurthur|2222222222

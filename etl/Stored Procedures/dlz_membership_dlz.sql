@@ -1,7 +1,7 @@
 create procedure etl.dlz_membership_dlz as 
 begin
 
-@now = getdate()
+declare @now datetime = getdate()
 
 truncate table dlz.membership_dlz
 

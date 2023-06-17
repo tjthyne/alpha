@@ -1,18 +1,18 @@
 CREATE TABLE [dsv].[membership_dsv] (
-    [SourceCode]        VARCHAR (20)   NOT NULL,
-    [SourceDescription] VARCHAR (2000) NOT NULL,
-    [FirstName]         VARCHAR (200)  NULL,
-    [LastName]          VARCHAR (200)  NULL,
-    [BirthDate]         VARCHAR (20)   NULL,
-    [Sex]               VARCHAR (10)   NULL,
-    [PhoneNumber]       VARCHAR (20)   NULL,
-    [Address1]          VARCHAR (200)  NULL,
-    [Address2]          VARCHAR (200)  NULL,
-    [City]              VARCHAR (200)  NULL,
-    [State]             VARCHAR (200)  NULL,
-    [ZIPCode]           VARCHAR (200)  NULL,
-    [PCPName]           VARCHAR (200)  NULL,
-    [PCPNPI]            VARCHAR (200)  NULL
+    [source_code]        VARCHAR (20)   NOT NULL,
+    [source_description] VARCHAR (2000) NOT NULL,
+    [first_name]         VARCHAR (200)  NULL,
+    [last_name]          VARCHAR (200)  NULL,
+    [birth_date]         VARCHAR (20)   NULL,
+    [sex]               VARCHAR (10)   NULL,
+    [phone_number]       VARCHAR (20)   NULL,
+    [address1]          VARCHAR (200)  NULL,
+    [address2]          VARCHAR (200)  NULL,
+    [city]              VARCHAR (200)  NULL,
+    [state]             VARCHAR (200)  NULL,
+    [zip_code]           VARCHAR (200)  NULL,
+    [pcp_name]           VARCHAR (200)  NULL,
+    [pcp_npi]            VARCHAR (200)  NULL
 );
 GO
 
