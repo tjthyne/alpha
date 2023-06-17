@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/o4OfmQGNJHaZZt30fVpYqUbMd56+qTL5cGSaDFcBJx/jenZ6UqIGmB2Y4UR5MwvXuAlhDN8dJoq3OiDoTk2Uw==",
+  "success": true,
+  "projectFilePath": "/Users/tim/repos/alpha/alpha.sqlproj",
+  "expectedPackageFiles": [
+    "/Users/tim/.nuget/packages/microsoft.netframework.referenceassemblies/1.0.0/microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "/Users/tim/.nuget/packages/microsoft.netframework.referenceassemblies.net46/1.0.0/microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

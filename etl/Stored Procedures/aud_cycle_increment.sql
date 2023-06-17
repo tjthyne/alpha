@@ -1,12 +1,12 @@
-create procedure aud.cycle_increment
+create procedure etl.aud_cycle_increment
     @source_code varchar(20)
 AS
 BEGIN
 
     set nocount on;
-    insert into aud.cycle
+    insert into [aud].[cycle]
     (
-        source_code
+        [source_code]
     )
     values
     (

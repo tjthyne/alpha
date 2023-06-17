@@ -1,7 +1,7 @@
 CREATE TABLE [dlz].[membership_dlz] (
     [source_code]        VARCHAR (20)   NOT NULL,
     [source_description] VARCHAR (2000) NOT NULL,
-    [cycle_sk]          INT            NOT NULL,
+    [create_cycle_sk]          INT            NOT NULL,
     [create_dtm]         DATETIME       NOT NULL DEFAULT (getdate()),
     [member_id]          VARCHAR (200)  NOT NULL,
     [first_name]         VARCHAR (200)  NULL,

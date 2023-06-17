@@ -1,0 +1,9 @@
+/Users/tim/repos/alpha/bin/Debug/alpha.dacpac
+/Users/tim/repos/alpha/obj/Debug/Model.xml
+/Users/tim/repos/alpha/obj/Debug/refactor.xml
+/Users/tim/repos/alpha/obj/Debug/postdeploy.sql
+/Users/tim/repos/alpha/obj/Debug/predeploy.sql
+/Users/tim/repos/alpha/obj/Debug/alpha.dll
+/Users/tim/repos/alpha/obj/Debug/alpha.pdb
+/Users/tim/repos/alpha/bin/Debug/alpha.dll
+/Users/tim/repos/alpha/bin/Debug/alpha.pdb
